@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeLabs Google</string>
+    <string name="btnRoll">Roll</string>
+    <string name="countUp">Count Up</string>
+</resources>
